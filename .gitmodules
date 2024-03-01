@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "betafunctions"]
 	path = betafunctions
-	url = https://github.com/cran/betafunctions
+	url = https://github.com/haakoneidemhaakstad/betafunctions
